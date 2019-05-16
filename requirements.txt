@@ -1,0 +1,2 @@
+prometheus-client==0.4.2
+requests==2.20.0
